@@ -1,6 +1,6 @@
 # Vault Dweller's Profile
 <div align="center">
-  <img src="https://media1.tenor.com/m/Mpqd36bO8N0AAAAC/fallout-video-game.gif" alt="Vault Boy" width="200" />
+  <img src="https://c.tenor.com/Mpqd36bO8N0AAAAC/tenor.gif" alt="Vault Boy" width="200" />
 </div>
 
 ## Welcome to My Vault
