@@ -20,7 +20,10 @@
 
 ### ☀️ Current Weather:
 
-🌡️ Temperature: 95°F  
+
+🌡️ Temperature: 27.7°F
+
+💧 Condition: Mainly clear
 💧 Condition: Clear Sky
 
 
