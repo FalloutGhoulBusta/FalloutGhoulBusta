@@ -10,9 +10,10 @@
 
 ---
 
-### 🤖 AI Thought of the Day:
+### 🎯 Thought of the Day:
 
-> _"The wasteland is harsh, but knowledge is power."_
+> _"The only way to do great work is to love what you do."_  
+— **Steve Jobs**
 
 ---
 
