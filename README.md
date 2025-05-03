@@ -12,8 +12,9 @@
 
 ### 🎯 Thought of the Day:
 
-> _"The only way to do great work is to love what you do."_  
-— **Steve Jobs**
+
+> _"Death is frightening, and so is Eternal Life."_
+— **Mason Cooley**
 
 ---
 
