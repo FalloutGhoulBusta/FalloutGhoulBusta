@@ -5,6 +5,9 @@ on:
     - cron: '0 */3 * * *' # Every 3 hours
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   get_weather:
     runs-on: ubuntu-latest
@@ -18,7 +21,7 @@ jobs:
           response=$(curl -s "https://api.open-meteo.com/v1/forecast?latitude=36.1699&longitude=-115.1398&current_weather=true")
           temp=$(echo "$response" | jq -r '.current_weather.temperature')
           condition=$(echo "$response" | jq -r '.current_weather.weathercode')
-          
+
           # Convert weather code to description
           case $condition in
             0) condition="Clear sky";;
@@ -35,7 +38,7 @@ jobs:
             95|96|99) condition="Thunderstorm";;
             *) condition="Unknown";;
           esac
-          
+
           echo "TEMP=$temp°F" >> $GITHUB_ENV
           echo "CONDITION=$condition" >> $GITHUB_ENV
 
