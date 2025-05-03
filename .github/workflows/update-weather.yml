@@ -14,13 +14,28 @@ jobs:
 
       - name: Get weather data
         id: weather
-        env:
-          WEATHER_API_KEY: ${{ secrets.WEATHER_API_KEY }}
         run: |
-          response=$(curl -s "http://api.weatherapi.com/v1/current.json?key=$WEATHER_API_KEY&q=Las Vegas")
-          temp=$(echo "$response" | jq -r '.current.temp_f')
-          condition=$(echo "$response" | jq -r '.current.condition.text')
-
+          response=$(curl -s "https://api.open-meteo.com/v1/forecast?latitude=36.1699&longitude=-115.1398&current_weather=true")
+          temp=$(echo "$response" | jq -r '.current_weather.temperature')
+          condition=$(echo "$response" | jq -r '.current_weather.weathercode')
+          
+          # Convert weather code to description
+          case $condition in
+            0) condition="Clear sky";;
+            1|2|3) condition="Mainly clear";;
+            45|48) condition="Fog";;
+            51|53|55) condition="Drizzle";;
+            56|57) condition="Freezing drizzle";;
+            61|63|65) condition="Rain";;
+            66|67) condition="Freezing rain";;
+            71|73|75) condition="Snow";;
+            77|85|86) condition="Snow grains";;
+            80|81|82) condition="Rain showers";;
+            85|86) condition="Snow showers";;
+            95|96|99) condition="Thunderstorm";;
+            *) condition="Unknown";;
+          esac
+          
           echo "TEMP=$temp°F" >> $GITHUB_ENV
           echo "CONDITION=$condition" >> $GITHUB_ENV
 
