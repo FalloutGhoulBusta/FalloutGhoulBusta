@@ -1,0 +1,47 @@
+name: 'Update Thought of the Day'
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Runs daily at midnight UTC
+  workflow_dispatch: # Allows manual triggering
+
+jobs:
+  update-thought:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Install dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y curl jq
+
+      - name: Fetch quote from FavQs API
+        id: fetch_quote
+        run: |
+          response=$(curl -s https://favqs.com/api/qotd)
+          quote=$(echo "$response" | jq -r '.quote.body')
+          author=$(echo "$response" | jq -r '.quote.author')
+
+          echo "QUOTE=$quote" >> $GITHUB_ENV
+          echo "AUTHOR=$author" >> $GITHUB_ENV
+
+      - name: Update README.md with new thought
+        run: |
+          # Backup README
+          cp README.md README.md.bak
+
+          # Replace the "Thought of the Day" section
+          sed -i '/### 🎯 Thought of the Day:/,/—/c\
+          ### 🎯 Thought of the Day:\n\
+          \n> _\"${{ env.QUOTE }}\"_\n— **${{ env.AUTHOR }}**' README.md
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.email "action@github.com"
+          git config --global user.name "GitHub Action"
+
+          git add README.md
+          git commit -m "🤖 Updated Thought of the Day"
+          git push
