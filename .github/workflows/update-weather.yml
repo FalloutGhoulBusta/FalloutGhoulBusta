@@ -1,0 +1,40 @@
+name: 'Update Live Weather'
+
+on:
+  schedule:
+    - cron: '0 */3 * * *' # Every 3 hours
+  workflow_dispatch:
+
+jobs:
+  get_weather:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Get weather data
+        id: weather
+        env:
+          WEATHER_API_KEY: ${{ secrets.WEATHER_API_KEY }}
+        run: |
+          response=$(curl -s "http://api.weatherapi.com/v1/current.json?key=$WEATHER_API_KEY&q=Las Vegas")
+          temp=$(echo "$response" | jq -r '.current.temp_f')
+          condition=$(echo "$response" | jq -r '.current.condition.text')
+
+          echo "TEMP=$temp°F" >> $GITHUB_ENV
+          echo "CONDITION=$condition" >> $GITHUB_ENV
+
+      - name: Update README.md
+        run: |
+          sed -i '/### ☀️ Current Weather:/,/°F/c\
+          ### ☀️ Current Weather:\n\
+          \n🌡️ Temperature: ${{ env.TEMP }}\n\
+          💧 Condition: ${{ env.CONDITION }}' README.md
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.email "action@github.com"
+          git config --global user.name "GitHub Action"
+          git add README.md
+          git commit -m "🌤️ Updated current weather"
+          git push
