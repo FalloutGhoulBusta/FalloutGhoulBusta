@@ -13,8 +13,8 @@
 ### 🎯 Thought of the Day:
 
 
-> _"Death is frightening, and so is Eternal Life."_
-— **Mason Cooley**
+> _"The ache for home lives in all of us, the safe place where we can go as we are and not be questioned."_
+— **Maya Angelou**
 
 ---
 
