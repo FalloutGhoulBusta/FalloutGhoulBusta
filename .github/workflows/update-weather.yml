@@ -67,7 +67,7 @@ jobs:
           awk -v new="$new_content" '
             BEGIN { update = 0; }
             /### ☀️ Current Weather:/ { update = 1; print new; next; }
-            update == 1 { if (/°F/) update = 0; next; }
+            update == 1 { if (/💧 Condition:/) update = 0; next; }
             { print; }
           ' README.md > temp.md && mv temp.md README.md
 
