@@ -28,6 +28,7 @@ jobs:
         id: weather
         run: |
           response=$(curl -s "https://api.open-meteo.com/v1/forecast?latitude=36.1699&longitude=-115.1398&current_weather=true")
+          echo "API Response: $response"  # Debugging: Print the API response
           temp=$(echo "$response" | jq -r '.current_weather.temperature')
           condition=$(echo "$response" | jq -r '.current_weather.weathercode')
 
@@ -47,6 +48,9 @@ jobs:
             95|96|99) condition="Thunderstorm";;
             *) condition="Unknown";;
           esac
+
+          echo "Temperature: $temp°F"  # Debugging: Print the temperature
+          echo "Condition: $condition"  # Debugging: Print the condition
 
           echo "TEMP=$temp°F" >> $GITHUB_ENV
           echo "CONDITION=$condition" >> $GITHUB_ENV
