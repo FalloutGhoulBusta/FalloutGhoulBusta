@@ -55,6 +55,9 @@ jobs:
           echo "TEMP=$temp°F" >> $GITHUB_ENV
           echo "CONDITION=$condition" >> $GITHUB_ENV
 
+      - name: Print README.md before update
+        run: cat README.md
+
       - name: Update README.md
         run: |
           # Create new content
@@ -69,6 +72,9 @@ jobs:
           ' README.md > temp.md && mv temp.md README.md
 
           echo "Weather content updated"
+
+      - name: Print README.md after update
+        run: cat README.md
 
       - name: Commit and push changes
         if: steps.weather.outputs.condition != ''
