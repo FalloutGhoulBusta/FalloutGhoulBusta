@@ -13,8 +13,8 @@
 ### 🎯 Thought of the Day:
 
 
-> _"The ache for home lives in all of us, the safe place where we can go as we are and not be questioned."_
-— **Maya Angelou**
+> _"If you suffer, thank God! It is a sure sign that you are alive."_
+— **Elbert Hubbard**
 
 ---
 
