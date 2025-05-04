@@ -36,32 +36,16 @@ jobs:
       - name: Get weather data
         id: weather
         run: |
-          response=$(curl -s "https://api.open-meteo.com/v1/forecast?latitude=${{ env.LATITUDE }}&longitude=${{ env.LONGITUDE }}&current_weather=true")
+          API_KEY=${{ secrets.WEATHER_API_KEY }}
+          response=$(curl -s "http://api.weatherapi.com/v1/current.json?key=$API_KEY&q=${{ env.LATITUDE }},${{ env.LONGITUDE }}")
           echo "API Response: $response"  # Debugging: Print the API response
-          temp=$(echo "$response" | jq -r '.current_weather.temperature')
-          condition=$(echo "$response" | jq -r '.current_weather.weathercode')
+          temp=$(echo "$response" | jq -r '.current.temp_c')
+          condition=$(echo "$response" | jq -r '.current.condition.text')
 
-          # Convert weather code to description
-          case $condition in
-            0) condition="Clear sky";;
-            1|2|3) condition="Mainly clear";;
-            45|48) condition="Fog";;
-            51|53|55) condition="Drizzle";;
-            56|57) condition="Freezing drizzle";;
-            61|63|65) condition="Rain";;
-            66|67) condition="Freezing rain";;
-            71|73|75) condition="Snow";;
-            77|85|86) condition="Snow grains";;
-            80|81|82) condition="Rain showers";;
-            85|86) condition="Snow showers";;
-            95|96|99) condition="Thunderstorm";;
-            *) condition="Unknown";;
-          esac
-
-          echo "Temperature: $temp°F"  # Debugging: Print the temperature
+          echo "Temperature: $temp°C"  # Debugging: Print the temperature
           echo "Condition: $condition"  # Debugging: Print the condition
 
-          echo "TEMP=$temp°F" >> $GITHUB_ENV
+          echo "TEMP=$temp°C" >> $GITHUB_ENV
           echo "CONDITION=$condition" >> $GITHUB_ENV
 
       - name: Print README.md before update
