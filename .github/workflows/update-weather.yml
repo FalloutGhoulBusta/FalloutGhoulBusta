@@ -24,10 +24,19 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v4
 
+      - name: Generate random coordinates
+        id: generate_coordinates
+        run: |
+          latitude=$(python -c "import random; print(random.uniform(-90, 90))")
+          longitude=$(python -c "import random; print(random.uniform(-180, 180))")
+          echo "LATITUDE=$latitude" >> $GITHUB_ENV
+          echo "LONGITUDE=$longitude" >> $GITHUB_ENV
+          echo "Generated Latitude: $latitude, Longitude: $longitude"
+
       - name: Get weather data
         id: weather
         run: |
-          response=$(curl -s "https://api.open-meteo.com/v1/forecast?latitude=36.1699&longitude=-115.1398&current_weather=true")
+          response=$(curl -s "https://api.open-meteo.com/v1/forecast?latitude=${{ env.LATITUDE }}&longitude=${{ env.LONGITUDE }}&current_weather=true")
           echo "API Response: $response"  # Debugging: Print the API response
           temp=$(echo "$response" | jq -r '.current_weather.temperature')
           condition=$(echo "$response" | jq -r '.current_weather.weathercode')
@@ -76,8 +85,18 @@ jobs:
       - name: Print README.md after update
         run: cat README.md
 
+      - name: Check for changes
+        id: check_changes
+        run: |
+          if git diff --exit-code; then
+            echo "No changes to commit"
+            echo "changes=false" >> $GITHUB_ENV
+          else
+            echo "changes=true" >> $GITHUB_ENV
+          fi
+
       - name: Commit and push changes
-        if: steps.weather.outputs.condition != ''
+        if: env.changes == 'true'
         run: |
           git config --global user.email "action@github.com"
           git config --global user.name "GitHub Action"
