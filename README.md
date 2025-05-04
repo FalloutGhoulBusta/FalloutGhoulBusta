@@ -1,7 +1,7 @@
 # Vault Dweller's Profile 🛡️
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/FalloutGhoulBusta/FalloutGhoulBusta/main/garden-of-eden.gif" alt="Vault Boy" width="200" />
+  <img src="https://raw.githubusercontent.com/FalloutGhoulBusta/FalloutGhoulBusta/main/gifs/garden-of-eden.gif" alt="Vault Boy" width="200" />
 </div>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=FalloutGhoulBusta&color=blue)
@@ -99,7 +99,7 @@
 
 <div align="center">
   <a href="https://buymeacoffee.com/newmanngarc">
-    <img src="https://raw.githubusercontent.com/FalloutGhoulBusta/FalloutGhoulBusta/main/nukacola.jpg" alt="Donate Caps" width="300" />
+    <img src="https://raw.githubusercontent.com/FalloutGhoulBusta/FalloutGhoulBusta/main/images/nukacola.jpg" alt="Donate Caps" width="300" />
   </a>
 </div>
 
@@ -108,7 +108,7 @@
 ## ⚠️ Warning: Radiation Detected
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/FalloutGhoulBusta/FalloutGhoulBusta/main/giphy.gif" alt="Vault Boy Warning" width="200"/>
+  <img src="https://raw.githubusercontent.com/FalloutGhoulBusta/FalloutGhoulBusta/main/gifs/giphy.gif" alt="Vault Boy Warning" width="200"/>
 </div>
 
 ---
