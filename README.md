@@ -25,9 +25,6 @@
 
 💧 Condition: Mainly clear
 
-💧 Condition: Mainly clear
-💧 Condition: Clear Sky
-
 
 ---
 
