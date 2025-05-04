@@ -1,25 +1,15 @@
-name: Update Live Weather
+name: 'Update Live Weather'
 
 on:
   schedule:
     - cron: '0 */3 * * *' # Every 3 hours
   workflow_dispatch:
-    inputs:
-      force_update:
-        description: 'Force update even if no changes'
-        required: false
-        default: 'false'
-
-permissions:
-  contents: write
-
-concurrency:
-  group: ${{ github.workflow }}-${{ github.ref }}
-  cancel-in-progress: true
 
 jobs:
   get_weather:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
@@ -30,7 +20,7 @@ jobs:
           response=$(curl -s "https://api.open-meteo.com/v1/forecast?latitude=36.1699&longitude=-115.1398&current_weather=true")
           temp=$(echo "$response" | jq -r '.current_weather.temperature')
           condition=$(echo "$response" | jq -r '.current_weather.weathercode')
-
+          
           # Convert weather code to description
           case $condition in
             0) condition="Clear sky";;
@@ -47,27 +37,18 @@ jobs:
             95|96|99) condition="Thunderstorm";;
             *) condition="Unknown";;
           esac
-
+          
           echo "TEMP=$temp°F" >> $GITHUB_ENV
           echo "CONDITION=$condition" >> $GITHUB_ENV
 
       - name: Update README.md
         run: |
-          # Get current content
-          current_content=$(cat README.md)
-          # Create new content
-          new_content="### ☀️ Current Weather:\n\n🌡️ Temperature: ${{ env.TEMP }}°F\n💧 Condition: ${{ env.CONDITION }}"
-          # Replace only if different
-          if [ "$current_content" != "$(echo "$new_content")" ]; then
-            sed -i '/### ☀️ Current Weather:/,/°F/c\
-            $new_content' README.md
-            echo "Weather content updated"
-          else
-            echo "Weather content is unchanged"
-          fi
+          sed -i '/### ☀️ Current Weather:/,/°F/c\
+          ### ☀️ Current Weather:\n\
+          \n🌡️ Temperature: ${{ env.TEMP }}\n\
+          💧 Condition: ${{ env.CONDITION }}' README.md
 
       - name: Commit and push changes
-        if: steps.weather.outputs.condition != ''
         run: |
           git config --global user.email "action@github.com"
           git config --global user.name "GitHub Action"
