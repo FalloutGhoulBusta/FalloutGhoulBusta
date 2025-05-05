@@ -13,8 +13,8 @@
 ### 🎯 Thought of the Day:
 
 
-> _"If you suffer, thank God! It is a sure sign that you are alive."_
-— **Elbert Hubbard**
+> _"All gods are homemade, and it is we who pull their strings, and so, give them the power to pull ours."_
+— **Aldous Huxley**
 
 ---
 
