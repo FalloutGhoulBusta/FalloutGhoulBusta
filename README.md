@@ -13,8 +13,8 @@
 ### 🎯 Thought of the Day:
 
 
-> _"All gods are homemade, and it is we who pull their strings, and so, give them the power to pull ours."_
-— **Aldous Huxley**
+> _"Capitalism has always been a failure for the lower classes. It is now beginning to fail for the middle classes."_
+— **Howard Zinn**
 
 ---
 
