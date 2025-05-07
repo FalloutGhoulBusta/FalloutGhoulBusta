@@ -13,8 +13,8 @@
 ### 🎯 Thought of the Day:
 
 
-> _"Capitalism has always been a failure for the lower classes. It is now beginning to fail for the middle classes."_
-— **Howard Zinn**
+> _"When bad men combine, the good must associate else they will fall one by one, an unpitied sacrifice in a contemptible struggle."_
+— **Edmund Burke**
 
 ---
 
