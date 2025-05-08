@@ -13,8 +13,8 @@
 ### 🎯 Thought of the Day:
 
 
-> _"When bad men combine, the good must associate else they will fall one by one, an unpitied sacrifice in a contemptible struggle."_
-— **Edmund Burke**
+> _"I was born great, education ruined me."_
+— **Rajiv Jindal**
 
 ---
 
