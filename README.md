@@ -13,8 +13,8 @@
 ### 🎯 Thought of the Day:
 
 
-> _"I was born great, education ruined me."_
-— **Rajiv Jindal**
+> _"Virtue is persecuted more by the wicked than it is loved by the good."_
+— **Buddha**
 
 ---
 
