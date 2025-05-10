@@ -20,8 +20,8 @@
 
 ### ☀️ Current Weather:
 
-🌡️ Temperature: 11.8°C
-💧 Condition: Patchy rain nearby
+🌡️ Temperature: 4.4°C
+💧 Condition: Partly Cloudy
 
 
 ---
