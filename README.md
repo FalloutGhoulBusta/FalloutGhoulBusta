@@ -20,8 +20,8 @@
 
 ### ☀️ Current Weather:
 
-🌡️ Temperature: -20.3°C
-💧 Condition: Freezing fog
+🌡️ Temperature: -11.5°C
+💧 Condition: Moderate snow
 
 
 ---
