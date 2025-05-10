@@ -20,8 +20,8 @@
 
 ### ☀️ Current Weather:
 
-🌡️ Temperature: -11.5°C
-💧 Condition: Moderate snow
+🌡️ Temperature: 11.8°C
+💧 Condition: Patchy rain nearby
 
 
 ---
