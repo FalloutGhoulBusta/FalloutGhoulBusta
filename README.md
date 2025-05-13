@@ -20,8 +20,8 @@
 
 ### ☀️ Current Weather:
 
-🌡️ Temperature: -7.7°C
-💧 Condition: Light snow
+🌡️ Temperature: 22.3°C
+💧 Condition: Partly cloudy
 
 
 ---
