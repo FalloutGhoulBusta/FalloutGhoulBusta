@@ -13,8 +13,8 @@
 ### 🎯 Thought of the Day:
 
 
-> _"Virtue is persecuted more by the wicked than it is loved by the good."_
-— **Buddha**
+> _"To be a good loser is to learn how to win."_
+— **Carl Sandburg**
 
 ---
 
