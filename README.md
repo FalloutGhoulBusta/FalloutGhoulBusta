@@ -13,8 +13,8 @@
 ### 🎯 Thought of the Day:
 
 
-> _"To be a good loser is to learn how to win."_
-— **Carl Sandburg**
+> _"Colors are the smiles of nature."_
+— **Leigh Hunt**
 
 ---
 
