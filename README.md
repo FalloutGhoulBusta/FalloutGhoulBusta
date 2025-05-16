@@ -20,8 +20,8 @@
 
 ### ☀️ Current Weather:
 
-🌡️ Temperature: 13.8°C
-💧 Condition: Sunny
+🌡️ Temperature: -7.0°C
+💧 Condition: Mist
 
 
 ---
