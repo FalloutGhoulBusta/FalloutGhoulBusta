@@ -20,8 +20,8 @@
 
 ### ☀️ Current Weather:
 
-🌡️ Temperature: 4.3°C
-💧 Condition: Light drizzle
+🌡️ Temperature: 24.3°C
+💧 Condition: Partly Cloudy
 
 
 ---
