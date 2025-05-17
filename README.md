@@ -13,8 +13,8 @@
 ### 🎯 Thought of the Day:
 
 
-> _"Colors are the smiles of nature."_
-— **Leigh Hunt**
+> _"I know that I am intelligent, because I know that I know nothing."_
+— **Socrates**
 
 ---
 
