@@ -13,8 +13,8 @@
 ### 🎯 Thought of the Day:
 
 
-> _"I know that I am intelligent, because I know that I know nothing."_
-— **Socrates**
+> _"Forward, as occasion offers. Never look round to see whether any shall note it... Be satisfied with success in even the smallest matter, and think that even such a result is no trifle."_
+— **Marcus Aurelius**
 
 ---
 
