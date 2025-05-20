@@ -13,8 +13,8 @@
 ### 🎯 Thought of the Day:
 
 
-> _"Forward, as occasion offers. Never look round to see whether any shall note it... Be satisfied with success in even the smallest matter, and think that even such a result is no trifle."_
-— **Marcus Aurelius**
+> _"The traveler sees what he sees, the tourist sees what he has come to see."_
+— **Gilbert K. Chesterton**
 
 ---
 
