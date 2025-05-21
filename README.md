@@ -13,8 +13,8 @@
 ### 🎯 Thought of the Day:
 
 
-> _"The traveler sees what he sees, the tourist sees what he has come to see."_
-— **Gilbert K. Chesterton**
+> _"The aim of art is to represent not the outward appearance of things, but their inward significance."_
+— **Aristotle**
 
 ---
 
