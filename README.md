@@ -13,8 +13,8 @@
 ### 🎯 Thought of the Day:
 
 
-> _"The aim of art is to represent not the outward appearance of things, but their inward significance."_
-— **Aristotle**
+> _"I would rather walk with a friend in the dark than walk alone in the light."_
+— **Helen Keller**
 
 ---
 
