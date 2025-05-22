@@ -20,8 +20,8 @@
 
 ### ☀️ Current Weather:
 
-🌡️ Temperature: 6.9°C
-💧 Condition: Clear
+🌡️ Temperature: null°C
+💧 Condition: null
 
 
 ---
