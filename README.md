@@ -13,8 +13,8 @@
 ### 🎯 Thought of the Day:
 
 
-> _"I would rather walk with a friend in the dark than walk alone in the light."_
-— **Helen Keller**
+> _"The sound of a kiss is not so loud as that of a cannon, but its echo lasts a great deal longer."_
+— **Oliver Wendell Holmes**
 
 ---
 
