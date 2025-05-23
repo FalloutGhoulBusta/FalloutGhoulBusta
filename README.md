@@ -20,8 +20,8 @@
 
 ### ☀️ Current Weather:
 
-🌡️ Temperature: 18.9°C
-💧 Condition: Fog
+🌡️ Temperature: 13.5°C
+💧 Condition: Sunny
 
 
 ---
