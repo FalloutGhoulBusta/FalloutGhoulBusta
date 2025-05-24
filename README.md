@@ -20,8 +20,8 @@
 
 ### ☀️ Current Weather:
 
-🌡️ Temperature: 18.1°C
-💧 Condition: Mist
+🌡️ Temperature: null°C
+💧 Condition: null
 
 
 ---
