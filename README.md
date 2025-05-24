@@ -13,8 +13,8 @@
 ### 🎯 Thought of the Day:
 
 
-> _"The sound of a kiss is not so loud as that of a cannon, but its echo lasts a great deal longer."_
-— **Oliver Wendell Holmes**
+> _"Take a simple idea and take it seriously."_
+— **Charlie Munger**
 
 ---
 
