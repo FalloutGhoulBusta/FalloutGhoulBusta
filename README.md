@@ -20,8 +20,8 @@
 
 ### ☀️ Current Weather:
 
-🌡️ Temperature: -2.5°C
-💧 Condition: Partly Cloudy
+🌡️ Temperature: 28.0°C
+💧 Condition: Sunny
 
 
 ---
