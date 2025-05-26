@@ -20,8 +20,8 @@
 
 ### ☀️ Current Weather:
 
-🌡️ Temperature: null°C
-💧 Condition: null
+🌡️ Temperature: -0.2°C
+💧 Condition: Light snow
 
 
 ---
