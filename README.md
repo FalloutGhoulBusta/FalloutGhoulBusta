@@ -124,4 +124,4 @@ const developer = {
 
 **Thanks for visiting! Let's build something amazing together! 🚀**
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+New&size=28&color=%23FFAA00&background=%23000000&center=true&vCenter=true&width=700&lines=PIP-BOY+3000+ONLINE...;LOADING+DWELLER+DATA...;VAULT+DWELLER+AUTHENTICATED)](https://git.io/typing-svg)</div>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=VAULT-TEC+SECURITY+PROTOCOL%E2%80%A6;SESSION+EXPIRED%E2%80%A6;KEEP+IT+TOGETHER+OUT+THERE)](https://git.io/typing-svg)</div>
