@@ -2,7 +2,7 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=War.%20War%20never%20changes.;AI%2FML+Enthusiast;Open+Source+Contributor;Always+Learning+Something+New;2%2B2%3D2)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=PIP-BOY+3000+ONLINE%E2%80%A6;LOADING+DWELLER+DATA%E2%80%A6;VAULT+DWELLER+AUTHENTICATED)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=FalloutGhoulBusta&color=00d9ff&style=flat-square)
 
