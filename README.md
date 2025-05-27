@@ -20,8 +20,8 @@
 
 ### ☀️ Current Weather:
 
-🌡️ Temperature: 24.1°C
-💧 Condition: Sunny
+🌡️ Temperature: -2.4°C
+💧 Condition: Blizzard
 
 
 ---
