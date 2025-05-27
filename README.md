@@ -1,115 +1,129 @@
-# Vault Dweller's Profile 🛡️
+# Hey there! 👋 I'm FalloutGhoulBusta
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/FalloutGhoulBusta/FalloutGhoulBusta/main/gifs/garden-of-eden.gif" alt="Vault Boy" width="200" />
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=War.%20War%20never%20changes.;AI%2FML+Enthusiast;Open+Source+Contributor;Always+Learning+Something+New;2%2B2%3D2)](https://git.io/typing-svg)
+
+![Profile Views](https://komarev.com/ghpvc/?username=FalloutGhoulBusta&color=00d9ff&style=flat-square)
+
 </div>
 
-![Profile Views](https://komarev.com/ghpvc/?username=FalloutGhoulBusta&color=blue)
+## 🚀 About Me
 
-👋 Greetings, fellow wastelanders! I'm **FalloutGhoulBusta**, a battle-scarred Vault Dweller turned code raider. When I'm not dodging radiation or bartering bottle caps, I'm building digital outposts in the post-apocalyptic web.
+```javascript
+const developer = {
+    name: "FalloutGhoulBusta",
+    role: "Full-Stack Developer",
+    location: "Building the future, one commit at a time",
+    languages: ["Python", "JavaScript", "C++", "TypeScript"],
+    frameworks: ["React", "Django", "Node.js", "FastAPI"],
+    databases: ["MongoDB", "PostgreSQL", "MySQL"],
+    interests: ["AI/ML", "Web3", "Open Source", "Game Development"],
+    currentlyLearning: "Advanced AI/ML and Cloud Architecture",
+    funFact: "I debug with console.log and I'm not ashamed! 🐛"
+};
+```
 
----
+## 💻 Tech Stack
 
-### 🎯 Thought of the Day:
+<div align="center">
 
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
-> _"Science exists, moreover, only as a journey toward troth. Stifle dissent and you end that journey."_
-— **John Charles Polanyi**
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
----
+### Backend
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 
-### ☀️ Current Weather:
+### Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
-🌡️ Temperature: 24.7°C
-💧 Condition: Partly Cloudy
+### Tools & Others
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
+</div>
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FalloutGhoulBusta&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FalloutGhoulBusta&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FalloutGhoulBusta&theme=tokyonight" alt="GitHub Streak"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FalloutGhoulBusta&theme=tokyo-night&bg_color=1a1b27&hide_border=true" width="100%"/>
+</div>
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=FalloutGhoulBusta&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies"/>
+</div>
+
+## 🔥 Featured Projects
+
+<div align="center">
+
+[![Travel Agency](https://github-readme-stats.vercel.app/api/pin/?username=FalloutGhoulBusta&repo=travel-agency&theme=tokyonight)](https://github.com/FalloutGhoulBusta/travel-agency)
+[![Gemini Cursor Clone](https://github-readme-stats.vercel.app/api/pin/?username=FalloutGhoulBusta&repo=Gemini-Cursor-Clone&theme=tokyonight)](https://github.com/FalloutGhoulBusta/Gemini-Cursor-Clone)
+
+</div>
+
+## 💡 Daily Inspiration
+
+<div align="center">
+  
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
+
+</div>
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:newmanngarry3@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/invrfront)
+[![Pinterest](https://img.shields.io/badge/Pinterest-E60023?style=for-the-badge&logo=pinterest&logoColor=white)](https://pin.it/2pn6YbgoC)
+
+</div>
+
+## ☕ Support My Work
+
+<div align="center">
+
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/newmanngarc)
+
+*If you find my work helpful, consider buying me a coffee! ☕*
+
+</div>
 
 ---
 
 <div align="center">
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=FalloutGhoulBusta&show_icons=true&hide_border=true&title_color=F7C600&icon_color=F7C600&text_color=C6C6C6&bg_color=1A1A1A" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FalloutGhoulBusta&text_color=C6C6C6&bg_color=1A1A1A&title_color=F7C600&icon_color=F7C600&langs_count=8" />
-  </p>
-  <img src="https://github-readme-activity-graph.vercel.app/graph/?username=FalloutGhoulBusta&bg_color=1A1A1A&color=F7C600&line=C6C6C6&point=C6C6C6" />
+  
+### 🎯 "Code is like humor. When you have to explain it, it's bad." - Cory House
+
+**Thanks for visiting! Let's build something amazing together! 🚀**
+
+![Snake animation](https://raw.githubusercontent.com/FalloutGhoulBusta/FalloutGhoulBusta/output/github-contribution-grid-snake.svg)
+
 </div>
-
----
-
-## 🧪 My Mutation
-
-- **🧪** Experimental _Rad-X Tolerant_ Developer
-- **💻** Full-Stack Survivor (Python, JS, C++ in Fallout Shelter)
-- **🔬** Researcher of Emerging Tech (AI/ML in the Wasteland)
-- **📚** Knowledge Broker (Sharing pre-war programming secrets)
-
----
-
-## 🔧 Radio Signals
-
-[![Skills](https://skillicons.dev/icons?i=python,js,cpp,react,django,mongodb,mysql,git)](https://skillicons.dev)
-
-- **Languages**: Python 🐍, JavaScript ⚡, C++ 💥
-- **Frameworks**: React (with RadAway styling), Django 📋
-- **Databases**: MongoDB 🗺️, MySQL 🧪
-- **Tools**: Git (Version Control Survivor)
-
----
-
-<details open>
-  <summary><h2>☢️ Contaminated Projects</h2></summary>
-
-  <div style="display: flex; flex-wrap: wrap; gap: 1.5rem; justify-content: center;">    
-    <!-- Project 1 -->
-    <div style="display: flex; flex-direction: column; align-items: center; gap: 0.5rem;">
-      <a href="https://github.com/FalloutGhoulBusta/travel-agency">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=FalloutGhoulBusta&repo=travel-agency&bg_color=1A1A1A&title_color=F7C600&text_color=C6C6C6&icon_color=F7C600&show_social=true" />
-      </a>
-      <a href="https://github.com/FalloutGhoulBusta/travel-agency/stargazers">
-        <img alt="Stars" src="https://img.shields.io/github/stars/FalloutGhoulBusta/travel-agency?style=social" />
-      </a>
-    </div>
-    <!-- Project 2 -->
-    <div style="display: flex; flex-direction: column; align-items: center; gap: 0.5rem;">
-      <a href="https://github.com/FalloutGhoulBusta/Gemini-Cursor-Clone">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=FalloutGhoulBusta&repo=Gemini-Cursor-Clone&bg_color=1A1A1A&title_color=F7C600&text_color=C6C6C6&icon_color=F7C600&show_social=true" />
-      </a>
-      <a href="https://github.com/FalloutGhoulBusta/Gemini-Cursor-Clone/stargazers">
-        <img alt="Stars" src="https://img.shields.io/github/stars/FalloutGhoulBusta/Gemini-Cursor-Clone?style=social" />
-      </a>
-    </div>
-
-  </div>
-</details>
-
----
-
-## 📡 Scavenged Signals
-
-- **📧** [Email](mailto:newmanngarry3@gmail.com) (Pre-war Communication)
-- **🐦** [X](https://x.com/invrfront) (Vault-Tec Social Network)
-- **🎨** [Pinterest](https://pin.it/2pn6YbgoC) (Post-Apocalyptic UI Inspiration)
-
----
-
-## 💰 Donate Caps
-
-<div align="center">
-  <a href="https://buymeacoffee.com/newmanngarc">
-    <img src="https://raw.githubusercontent.com/FalloutGhoulBusta/FalloutGhoulBusta/main/images/nukacola.jpg" alt="Donate Caps" width="300" />
-  </a>
-</div>
-
----
-
-## ⚠️ Warning: Radiation Detected
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/FalloutGhoulBusta/FalloutGhoulBusta/main/gifs/giphy.gif" alt="Vault Boy Warning" width="200"/>
-</div>
-
----
-
-Remember wastelander: Always backup your saves, watch your six, and never trust a smiling Super Mutant. Let's rebuild this digital frontier together! 🔨
-
-[![Vault-Tec University Graduate]](https://github.com/FalloutGhoulBusta)
