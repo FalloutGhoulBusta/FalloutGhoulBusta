@@ -13,8 +13,8 @@
 ### 🎯 Thought of the Day:
 
 
-> _"Take a simple idea and take it seriously."_
-— **Charlie Munger**
+> _"Science exists, moreover, only as a journey toward troth. Stifle dissent and you end that journey."_
+— **John Charles Polanyi**
 
 ---
 
