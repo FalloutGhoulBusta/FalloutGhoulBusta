@@ -124,6 +124,4 @@ const developer = {
 
 **Thanks for visiting! Let's build something amazing together! 🚀**
 
-![Snake animation](https://raw.githubusercontent.com/FalloutGhoulBusta/FalloutGhoulBusta/output/github-contribution-grid-snake.svg)
-
-</div>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+New&size=28&color=%23FFAA00&background=%23000000&center=true&vCenter=true&width=700&lines=PIP-BOY+3000+ONLINE...;LOADING+DWELLER+DATA...;VAULT+DWELLER+AUTHENTICATED)](https://git.io/typing-svg)</div>
