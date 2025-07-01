@@ -106,7 +106,7 @@
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/FalloutGhoulBusta/FalloutGhoulBusta/main/assets/cyberpunk_divider.gif" width="100%"/>
+  <img src="https://media1.tenor.com/m/qK1MctIbmIwAAAAd/cyberpunk-2077-arm.gif" width="100%"/>
 </div>
 
 ## 💡 System Broadcast // Daily Inspiration
@@ -118,7 +118,7 @@
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/FalloutGhoulBusta/FalloutGhoulBusta/main/assets/cyberpunk_divider.gif" width="100%"/>
+  <img src="https://media1.tenor.com/m/A4sEsXAL-doAAAAd/cyberpunk-cyberpunk2077.gif" width="100%"/>
 </div>
 
 ## 🌐 Holo-Net Connection // Connect With Me
