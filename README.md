@@ -25,7 +25,7 @@
 ```
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/FalloutGhoulBusta/FalloutGhoulBusta/main/assets/cyberpunk_divider.gif" width="100%"/>
+  <img src="https://media1.tenor.com/m/8RDmq9fOGdwAAAAd/lets-go-johnny-silverhand.gif" width="100%"/>
 </div>
 
 ## 💻 Tech Arsenal // My Stack
@@ -64,7 +64,7 @@
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/FalloutGhoulBusta/FalloutGhoulBusta/main/assets/cyberpunk_divider.gif" width="100%"/>
+  <img src="https://media1.tenor.com/m/ZQAhIpZrJQ4AAAAd/night-city-cyberpunk2077.gif" width="100%"/>
 </div>
 
 ## 📊 Global Matrix Stats // GitHub
@@ -83,7 +83,7 @@
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/FalloutGhoulBusta/FalloutGhoulBusta/main/assets/cyberpunk_divider.gif" width="100%"/>
+  <img src="https://media1.tenor.com/m/r0WGAiM5u_gAAAAd/cyberpunk.gif" width="100%"/>
 </div>
 
 ## 🏆 Cybernetic Accolades // Achievements
@@ -93,7 +93,7 @@
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/FalloutGhoulBusta/FalloutGhoulBusta/main/assets/cyberpunk_divider.gif" width="100%"/>
+  <img src="https://media1.tenor.com/m/A4sEsXAL-doAAAAd/cyberpunk-cyberpunk2077.gif" width="100%"/>
 </div>
 
 ## 🔥 Rogue Signal // Featured Projects
