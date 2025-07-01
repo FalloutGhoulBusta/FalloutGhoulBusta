@@ -133,7 +133,7 @@
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/FalloutGhoulBusta/FalloutGhoulBusta/main/assets/cyberpunk_divider.gif" width="100%"/>
+  <img src="https://media1.tenor.com/m/KEpIq8SGo9oAAAAd/keanu-reeves-johnny-silverhand.gif" width="100%"/>
 </div>
 
 ## ☕ System Maintenance // Support My Work
