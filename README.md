@@ -25,7 +25,7 @@
 ```
 
 <div align="center">
-  <img src="https://i.imgur.com/DbQY0Tf.gif" width="100%"/> <!-- Grayscale Divider -->
+  <hr/>
 </div>
 
 ## 🛠️ My Tech Stack
@@ -64,7 +64,7 @@
 </div>
 
 <div align="center">
-  <img src="https://i.imgur.com/DbQY0Tf.gif" width="100%"/> <!-- Grayscale Divider -->
+  <hr/>
 </div>
 
 ## 📊 GitHub Stats
@@ -83,7 +83,7 @@
 </div>
 
 <div align="center">
-  <img src="https://i.imgur.com/DbQY0Tf.gif" width="100%"/> <!-- Grayscale Divider -->
+  <hr/>
 </div>
 
 ## 🏆 Achievements
@@ -93,7 +93,7 @@
 </div>
 
 <div align="center">
-  <img src="https://i.imgur.com/DbQY0Tf.gif" width="100%"/> <!-- Grayscale Divider -->
+  <hr/>
 </div>
 
 ## ✨ Featured Projects
@@ -106,7 +106,7 @@
 </div>
 
 <div align="center">
-  <img src="https://i.imgur.com/DbQY0Tf.gif" width="100%"/> <!-- Grayscale Divider -->
+  <hr/>
 </div>
 
 ## 💡 Daily Quote
@@ -118,7 +118,7 @@
 </div>
 
 <div align="center">
-  <img src="https://i.imgur.com/DbQY0Tf.gif" width="100%"/> <!-- Grayscale Divider -->
+  <hr/>
 </div>
 
 ## 🌐 Connect With Me
@@ -133,7 +133,7 @@
 </div>
 
 <div align="center">
-  <img src="https://i.imgur.com/DbQY0Tf.gif" width="100%"/> <!-- Grayscale Divider -->
+  <hr/>
 </div>
 
 ## ☕ Support My Work
