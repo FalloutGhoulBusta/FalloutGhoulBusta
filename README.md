@@ -6,15 +6,24 @@ I'm a passionate Full-Stack Developer, always looking to improve. I focus on bui
 [![Twitter](https://img.shields.io/badge/-@invrfront-313131?style=flat-square&labelColor=313131&logo=x&logoColor=white&color=313131)](https://x.com/invrfront)
 [![Pinterest](https://img.shields.io/badge/-Pinterest-313131?style=flat-square&labelColor=313131&logo=pinterest&logoColor=white&color=313131)](https://pin.it/2pn6YbgoC)
 [![GitHub](https://img.shields.io/badge/-@FalloutGhoulBusta-313131?style=flat-square&labelColor=313131&logo=github&logoColor=white&color=313131)](https://github.com/FalloutGhoulBusta)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-313131?style=flat-square&labelColor=313131&logo=linkedin&logoColor=white&color=313131)](https://www.linkedin.com/in/your-linkedin-profile/)
 <a href="mailto:newmanngarry3@gmail.com"><img src="https://img.shields.io/badge/-Email-313131?style=flat-square&labelColor=313131&logo=gmail&logoColor=white&color=313131" /></a>
 
 ---
 <div align="center">
-
-[![FalloutGhoulBusta's GitHub stats](https://github-readme-stats.vercel.app/api?username=FalloutGhoulBusta&show_icons=true&theme=dark&hide_border=true)](https://github.com/FalloutGhoulBusta/github-readme-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=FalloutGhoulBusta&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
-
+  <table border="0" cellpadding="0" cellspacing="0">
+    <tr>
+      <td>
+        <a href="https://github.com/FalloutGhoulBusta/github-readme-stats">
+          <img src="https://github-readme-stats.vercel.app/api?username=FalloutGhoulBusta&show_icons=true&theme=dark&hide_border=true" alt="FalloutGhoulBusta's GitHub stats" />
+        </a>
+      </td>
+      <td>
+        <a href="https://git.io/streak-stats">
+          <img src="https://github-readme-streak-stats.herokuapp.com/?user=FalloutGhoulBusta&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="GitHub Streak" />
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
